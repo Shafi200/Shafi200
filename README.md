@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Shafi200/Shafi200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=9999999999999&color=206E90&multiline=true&width=435&lines=%22Welcome+to+Coding+Till+Death%2C+brought+to+you+by+Shafi+Mphonde+%E2%80%93+where+passion+meets+innovation!+Dive+into+a+world+of+creativity%2C+code%2C+and+endless+possibilities.+Let's+build+the+future%2C+one+line+at+a+time.%22" alt="Typing SVG" /></a>
